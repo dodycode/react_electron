@@ -8,7 +8,8 @@ Please do this before run project:<br />
 ## How to Run
 
 How to run this project:
-`npm run dev`
+- `npm install`
+- `npm run dev`
 
 ## Learn More
 
