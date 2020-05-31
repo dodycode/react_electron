@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Notes
+## Important Notes
 
 Please do this before run project:<br />
 `cp .env.example .env`
